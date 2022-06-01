@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "rPgdTT1l8Izhn085wEbI1an2N3+x03J5USA3Dob8iSvJh2FAwA5W+I3YFVcfRkcmCNeAcD/nvR9HixeQEwkFhg==",
+  "dgSpecHash": "DJba3Y+bnNyBqRBMOOgm0VH689qZVy4rXUk0h7glPaG2XsntzHyugVGf74e/47aQCCKK+FkFDlzReJrfcfXBbg==",
   "success": true,
   "projectFilePath": "C:\\Users\\jhonathan.yamamoto\\source\\repos\\Vshop.Product.Api\\Vshop.Product.Api\\Vshop.ProductApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
+    "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
+    "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.5\\microsoft.entityframeworkcore.6.0.5.nupkg.sha512",
     "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.5\\microsoft.entityframeworkcore.abstractions.6.0.5.nupkg.sha512",
     "C:\\Users\\jhonathan.yamamoto\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.5\\microsoft.entityframeworkcore.analyzers.6.0.5.nupkg.sha512",
