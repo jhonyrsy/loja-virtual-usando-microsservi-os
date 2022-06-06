@@ -33,3 +33,5 @@ C:\Users\jhonathan.yamamoto\source\repos\Vshop.Product.Api\Vshop.Product.Api\obj
 C:\Users\jhonathan.yamamoto\source\repos\Vshop.Product.Api\Vshop.Product.Api\obj\Debug\net6.0\Vshop.ProductApi.pdb
 C:\Users\jhonathan.yamamoto\source\repos\Vshop.Product.Api\Vshop.Product.Api\obj\Debug\net6.0\Vshop.ProductApi.genruntimeconfig.cache
 C:\Users\jhonathan.yamamoto\source\repos\Vshop.Product.Api\Vshop.Product.Api\obj\Debug\net6.0\ref\Vshop.ProductApi.dll
+C:\Users\jhonathan.yamamoto\source\repos\Vshop.Product.Api\Vshop.Product.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\jhonathan.yamamoto\source\repos\Vshop.Product.Api\Vshop.Product.Api\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
