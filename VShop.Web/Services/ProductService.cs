@@ -55,9 +55,8 @@ namespace VShop.Web.Services
                     return null;
                 }
             }
+
             return productVM;
-
-
         }
         public async Task<ProductViewModel> CreateProduct(ProductViewModel productVM)
         {
