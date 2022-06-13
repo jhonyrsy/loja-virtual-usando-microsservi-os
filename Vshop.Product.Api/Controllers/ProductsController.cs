@@ -47,14 +47,10 @@ namespace Vshop.ProductApi.Controllers
                 new { id = produtoDto.Id }, produtoDto);
         }
 
-        [HttpPut("{id}")]
-        public async Task<ActionResult> Put(int id, [FromBody] ProductDTO produtoDto)
+        [HttpPut()]
+        public async Task<ActionResult> Put([FromBody] ProductDTO produtoDto)
         {
-            if (id != produtoDto.Id)
-            {
-                return BadRequest("Data invalid");
-            }
-
+           
             if (produtoDto == null)
                 return BadRequest("Data invalid");
 
@@ -62,6 +58,8 @@ namespace Vshop.ProductApi.Controllers
 
             return Ok(produtoDto);
         }
+
+
 
         [HttpDelete("{id}")]
         public async Task<ActionResult<ProductDTO>> Delete(int id)
